@@ -1,0 +1,50 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h2>Danh sách thông tin đặt lịch</h2>
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Tên Khách Hàng</th>
+            <th>Gói Dịch Vụ</th>
+            <th>Ngày Thực Hiện</th>
+            <th>Địa Chỉ Thực Hiện</th>
+            <th>Trạng Thái Duyệt</th>
+            <th>Hành Động</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in data %}
+        <tr>
+            <td>{{ item.id }}</td>
+            <td>{{ item.tenKhachHang }}</td>
+            <td>{{ item.goiDichVu }}</td>
+            <td>{{ item.ngayThucHien }}</td>
+            <td>{{ item.diaChiThucHien }}</td>
+            <td>
+                {% if item.trangThaiDuyet == "1" %}
+                    Chưa duyệt
+                {% elif item.trangThaiDuyet == "2" %}
+                    Đã duyệt
+                {% elif item.trangThaiDuyet == "3" %}
+                    Từ chối
+                {% else %}
+                    Không xác định
+                {% endif %}
+            </td>
+            <td>
+                <!-- Nếu trạng thái là 'Chưa duyệt' thì hiển thị nút Đồng ý/Từ chối -->
+                {% if item.trangThaiDuyet == '1' %}
+                    <button onclick="approve('{{ item.id|escapejs }}')">Đồng ý</button>
+                    <button onclick="reject('{{ item.id|escapejs }}')">Từ chối</button>
+                {% else %}
+                    <!-- Không hiển thị nút nếu đã duyệt hoặc từ chối -->
+                    -
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

@@ -1,0 +1,17 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /btml
+spring:
+  profiles:
+    active: dev
+  datasource:
+    url: "jdbc:mysql://localhost:3306/baotrimaylanh"
+    username: root
+    password: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+

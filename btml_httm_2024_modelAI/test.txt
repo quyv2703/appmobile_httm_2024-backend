@@ -1,0 +1,158 @@
+vấn_đề lớn	neutral
+giờ kêu to	positive
+bảo_dưỡng kỹ	positive
+sửa_chữa đáng tin_cậy	positive
+thái_độ chuẩn	positive
+nhân_viên chuyên_nghiệp	positive
+hỏng mạch cảm_biến	negative
+thực_hiện một_cách bình_thường	neutral
+nice	positive
+công_ty đầy_đủ trang thiết_bị chuyên_dụng	positive
+nhân_viên thân_thiện thiếu chuyên_nghiệp	negative
+thợ sửa làm_việc giỏi	positive
+thợ sửa kinh_nghiệm nạp gas chuẩn	positive
+nhân_viên vệ_sinh dàn lạnh	negative
+kỹ_thuật_viên khả_năng xử_lý_sự_cố tốt	positive
+sau làm mát đều	positive
+hỏng block	negative
+vận_hành ổn_định	neutral
+phòng thực_hành	negative
+chất_lượng mức trung_bình	neutral
+đặc_biệt	neutral
+nhân_viên ghi_chép số_liệu kiểm_tra	negative
+nhân_viên cao	positive
+đáp_ứng đúng yêu_cầu	negative
+hài_lòng giới_thiệu bạn_bè	positive
+công_ty chuẩn	positive
+chất_lượng đạt mức cơ_bản	neutral
+nhân_viên giải_thích kỹ tình_trạng máy	negative
+chi_phí nằm mức chấp_nhận	neutral
+cam_kết chất_lượng rõ_ràng	negative
+hoạt_động ổn_định sau sửa	neutral
+vận_hành ổn_định	neutral
+hỏng van tiết lưu	negative
+đặc_sắc	neutral
+nhân_viên làm_việc chuyên_nghiệp hiệu_quả	positive
+trục_trặc sau	negative
+hoàn_thành đúng thời_gian dự_kiến	neutral
+chất_lượng gas đảm_bảo	negative
+đặc_biệt	neutral
+chi_phí phù_hợp	neutral
+thợ làm_việc đúng quy_trình tiêu_chuẩn	neutral
+đáp_ứng đúng yêu_cầu	negative
+đáng chú_ý thực_hiện đúng yêu_cầu	neutral
+đáng phàn_nàn	neutral
+hoạt_động bình_thường sau sửa	neutral
+thực_hiện bình_thường	neutral
+chế_độ bảo_hành sau sửa_chữa tốt	positive
+giờ kêu to	positive
+chi_phí phù_hợp chất_lượng	neutral
+hài_lòng hoạt_động tốt	positive
+thợ làm_việc đúng những thống_nhất	neutral
+vấn_đề lớn	neutral
+thợ làm_việc đúng quy_trình	neutral
+hài_lòng chất_lượng công_ty	positive
+nhanh_chóng làm gián_đoạn công_việc	positive
+nhân_viên giỏi	positive
+hoạt_động yếu sau	negative
+nhân_viên đến làm_việc đúng giờ chuyên_nghiệp	positive
+khỏe	positive
+nhân_viên thiếu kỹ_năng làm_việc hiệu_quả	negative
+thợ sửa làm hỏng van một_chiều	negative
+chi_phí nằm mức giá thị_trường	neutral
+nhanh_chóng hiệu_quả	positive
+thợ làm_việc đúng quy_trình tiêu_chuẩn	neutral
+hài_lòng công_ty	positive
+giờ hoạt_động ổn_định trục_trặc	positive
+thực_hiện đúng thỏa_thuận	neutral
+rỉ sét sau vệ_sinh	negative
+làm mát mong_đợi sau	negative
+chi_phí nằm mức chấp_nhận	neutral
+công_việc hoàn_thành đúng hẹn	neutral
+chất_lượng công_việc tạm	neutral
+rò_rỉ nước sau	negative
+công_ty best	positive
+đặc_sắc	neutral
+nhân_viên thiếu trách_nhiệm chu_đáo	negative
+kỹ_thuật cao	positive
+chất_lượng nằm giới_hạn mong_đợi	neutral
+kỹ_lưỡng máy rò_rỉ nước	negative
+quá chậm làm mất nhiều thời_gian	negative
+nhân_viên tư_vấn tận_tình sử_dụng	positive
+nhân_viên nhiệt_tình chu_đáo hài_lòng	positive
+hoạt_động ổn_định	neutral
+công_ty đội_ngũ thợ lành_nghề	positive
+nhân_viên làm_việc đúng quy_trình chuẩn	neutral
+định_kỳ giúp máy hoạt_động ổn_định	positive
+đội_ngũ kỹ_thuật chuyên_sâu	negative
+nhân_viên thẻ nhân_viên chính_thức	negative
+hoạt_động ổn_định	neutral
+đặc_biệt mọi thứ đều ổn	neutral
+sau hoạt_động kém	negative
+hoạt_động tốt sau	negative
+máy_bơm chân_không	negative
+cảm_thấy hài_lòng công_ty	positive
+sau tiếng ồn khó_chịu	positive
+vận_hành bình_thường sau sửa_chữa	neutral
+nhân_viên làm_việc đúng giờ	neutral
+chứng_chỉ hành_nghề	negative
+hỏng mạch nguồn	negative
+chất_lượng công_việc đạt yêu_cầu	neutral
+công_việc hoàn_thành đúng hẹn	neutral
+giờ tình_trạng rò_rỉ nước	positive
+nhân_viên nhiệt_tình	positive
+hoạt_động tốt sau	negative
+hài_lòng giờ hoạt_động ổn_định nhiều	positive
+êm	positive
+mất chức_năng hẹn giờ	negative
+thái_độ phục_vụ mức bình_thường	neutral
+chất_lượng tiếp_tục sử_dụng	positive
+hỏng thermostat	negative
+nhân_viên pro	positive
+điểm đáng nhắc	neutral
+êm	positive
+phàn_nàn	neutral
+nhân_viên thay quạt	negative
+sau kêu to gây khó_chịu	negative
+sau rò_rỉ nước	positive
+hỏng mạch điều_khiển quạt	negative
+thợ sửa kinh_nghiệm thay tụ_điện	positive
+thời_gian thực_hiện dự_kiến	neutral
+giờ tiếng ồn khó_chịu	positive
+nhân_viên lắp_đặt	negative
+nhân_viên làm_việc đúng quy_trình standard	neutral
+giá_cả phù_hợp thị_trường chung	neutral
+nhân_viên chăm_chỉ làm_việc	positive
+đáng tin_cậy tiếp_tục sử_dụng	positive
+giá_cả quá đắt so chất_lượng	negative
+thực_hiện bình_thường	neutral
+nhân_viên thay gas	negative
+đáng phàn_nàn	neutral
+thời_gian chờ_đợi quá lâu làm_việc kế_hoạch	negative
+quá chậm làm mất nhiều thời_gian	negative
+good	positive
+nhân_viên thân_thiện thiếu chuyên_nghiệp	negative
+nhân_viên đến đúng giờ làm_việc nhanh_chóng	positive
+thợ sửa xử_lý lỗi cơ_bản	negative
+nhân_viên nhiệt_tình chu_đáo hài_lòng	positive
+thực_hiện một_cách bình_thường	neutral
+giá_cả hợp_lý so chất_lượng	negative
+công_ty nice	positive
+giờ hoạt_động êm_ái làm mát nhanh	positive
+quá chậm mất nhiều thời_gian chờ_đợi	negative
+chi_phí phát_sinh thông_báo	negative
+thái_độ nhân_viên bình_thường	neutral
+công_ty uy_tín lâu năm	positive
+mùi hôi sau vệ_sinh	negative
+điểm đáng nhắc	neutral
+kỹ_sư giám_sát	negative
+sửa_chữa nhanh_chóng hiệu_quả	positive
+giá_cả quá cao so chất_lượng nhận	negative
+chất_lượng đồng_đều lần	negative
+chất_lượng điện_trở đảm_bảo	negative
+thái_độ nhân_viên bình_thường quá nhiệt_tình	neutral
+nhân_viên nhiệt_tình chu_đáo hài_lòng	positive
+công_ty chính_sách bảo_hành rõ_ràng	positive
+nhân_viên nhiệt_tình thiếu chuyên_nghiệp	negative
+hỏng timer	negative
+thợ sửa mang phụ_tùng thay_thế	negative

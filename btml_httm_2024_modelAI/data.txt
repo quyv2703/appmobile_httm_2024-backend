@@ -1,0 +1,786 @@
+Dịch vụ bảo trì rất tuyệt vời, máy lạnh nhà tôi hoạt động tốt hơn hẳn.	positive
+Nhân viên kỹ thuật rất chuyên nghiệp và nhiệt tình, tôi rất hài lòng.	positive
+Máy lạnh của tôi giờ hoạt động êm ái và làm mát nhanh hơn.	positive
+Giá cả hợp lý, dịch vụ xứng đáng với số tiền bỏ ra.	positive
+Thời gian hoàn thành nhanh chóng, không làm gián đoạn công việc của tôi.	positive
+Sau khi bảo trì, máy lạnh hoạt động hiệu quả hơn rất nhiều.	positive
+Tôi rất hài lòng với sự phục vụ của đội ngũ kỹ thuật.	positive
+Nhân viên đến đúng giờ và làm việc nhanh chóng.	positive
+Dịch vụ bảo trì đã giải quyết triệt để vấn đề của máy lạnh nhà tôi.	positive
+Kỹ thuật viên rất thân thiện và cẩn thận trong công việc.	positive
+Máy lạnh sau bảo trì đã không còn tiếng ồn khó chịu nữa.	positive
+Dịch vụ tốt, giá cả hợp lý và không hề bị chặt chém.	positive
+Nhân viên làm việc rất chuyên nghiệp và nhanh chóng.	positive
+Sau khi bảo trì, máy lạnh nhà tôi đã chạy mượt mà hơn.	positive
+Tôi rất ấn tượng với chất lượng dịch vụ của công ty.	positive
+Kỹ thuật viên rất nhiệt tình và tận tâm với công việc.	positive
+Dịch vụ bảo trì thật sự tốt, máy lạnh hoạt động rất ổn định.	positive
+Nhân viên thân thiện, giải đáp mọi thắc mắc của tôi.	positive
+Máy lạnh giờ đã làm mát đều hơn, không còn tình trạng chỗ nóng chỗ lạnh nữa.	positive
+Tôi rất hài lòng với dịch vụ, sẽ tiếp tục sử dụng trong tương lai.	positive
+Dịch vụ rất tốt, máy lạnh của tôi giờ chạy rất êm.	positive
+Nhân viên kỹ thuật rất nhiệt tình và hỗ trợ tận tâm.	positive
+Sau khi bảo trì, máy lạnh làm mát đều hơn hẳn.	positive
+Tôi rất hài lòng với dịch vụ, sẽ giới thiệu cho bạn bè.	positive
+Công ty cung cấp dịch vụ chuyên nghiệp và nhanh chóng.	positive
+Nhân viên giải thích rõ ràng và làm việc rất nhanh.	positive
+Máy lạnh hoạt động tốt hơn rất nhiều sau khi bảo trì.	positive
+Dịch vụ thật sự chất lượng, tôi sẽ tiếp tục sử dụng.	positive
+Nhân viên thân thiện và rất hiểu biết về kỹ thuật.	positive
+Máy lạnh của tôi giờ đã không còn tình trạng bị rò rỉ nước.	positive
+Dịch vụ bảo trì nhanh chóng và hiệu quả.	positive
+Máy lạnh của tôi giờ hoạt động rất ổn định, không còn trục trặc nữa.	positive
+Nhân viên đến làm việc đúng giờ và rất chuyên nghiệp.	positive
+Tôi rất hài lòng với dịch vụ bảo trì của công ty.	positive
+Sau khi bảo trì, máy lạnh nhà tôi hoạt động tốt hơn nhiều.	positive
+Nhân viên rất tận tâm và làm việc rất nhanh gọn.	positive
+Máy lạnh của tôi giờ đã không còn bị đọng nước sau khi bảo trì.	positive
+Tôi cảm thấy rất hài lòng với dịch vụ của công ty.	positive
+Nhân viên làm việc rất kỹ lưỡng và chu đáo.	positive
+Máy lạnh nhà tôi giờ đã không còn kêu to như trước.	positive
+Tôi rất hài lòng với dịch vụ bảo trì của công ty, rất đáng giá tiền.	positive
+Nhân viên kỹ thuật rất giỏi và hiểu biết về máy lạnh.	positive
+Sau khi bảo trì, máy lạnh nhà tôi làm mát nhanh hơn rất nhiều.	positive
+Tôi rất ấn tượng với thái độ làm việc của nhân viên.	positive
+Dịch vụ bảo trì rất nhanh chóng và chuyên nghiệp.	positive
+Máy lạnh của tôi giờ hoạt động rất ổn định sau khi bảo trì.	positive
+Nhân viên rất thân thiện và làm việc rất nhanh.	positive
+Máy lạnh nhà tôi giờ đã không còn tiếng ồn khó chịu nữa.	positive
+Dịch vụ bảo trì rất tốt, máy lạnh của tôi giờ làm mát đều hơn.	positive
+Tôi rất hài lòng với chất lượng dịch vụ của công ty.	positive
+Nhân viên làm việc rất chuyên nghiệp và hiệu quả.	positive
+Máy lạnh sau bảo trì đã không còn bị rò rỉ nước nữa.	positive
+Dịch vụ nhanh chóng và không làm gián đoạn công việc của tôi.	positive
+Tôi rất hài lòng với dịch vụ bảo trì, máy lạnh hoạt động rất tốt.	positive
+Nhân viên rất nhiệt tình và chu đáo, tôi rất hài lòng.	positive
+Máy lạnh của tôi giờ hoạt động rất mượt mà sau khi bảo trì.	positive
+Dịch vụ tuyệt vời, tôi rất hài lòng với kết quả.	positive
+Máy lạnh của tôi giờ hoạt động tốt như mới sau bảo trì.	positive
+Nhân viên rất nhiệt tình và chuyên nghiệp.	positive
+Dịch vụ bảo trì nhanh chóng và hiệu quả.	positive
+Tôi rất ấn tượng với chất lượng dịch vụ.	positive
+Máy lạnh của tôi giờ làm mát rất tốt sau khi bảo trì.	positive
+Nhân viên rất thân thiện và chu đáo.	positive
+Dịch vụ rất đáng tin cậy, tôi sẽ tiếp tục sử dụng.	positive
+Máy lạnh của tôi giờ không còn bị rò rỉ nước sau bảo trì.	positive
+Tôi rất hài lòng với dịch vụ, máy lạnh của tôi giờ hoạt động ổn định hơn nhiều.	positive
+Nhân viên đến làm việc đúng giờ và rất chuyên nghiệp.	positive
+Sau bảo trì, máy lạnh của tôi làm mát đều hơn.	positive
+Tôi rất hài lòng với thái độ làm việc của nhân viên.	positive
+Dịch vụ bảo trì rất nhanh chóng và chuyên nghiệp.	positive
+Máy lạnh của tôi giờ hoạt động rất tốt sau khi bảo trì.	positive
+Nhân viên rất thân thiện và làm việc rất nhanh.	positive
+Máy lạnh của tôi giờ đã không còn tiếng ồn khó chịu nữa.	positive
+Dịch vụ bảo trì rất tốt, máy lạnh của tôi giờ làm mát đều hơn.	positive
+Tôi rất hài lòng với chất lượng dịch vụ của công ty.	positive
+Nhân viên làm việc rất chuyên nghiệp và hiệu quả.	positive
+Máy lạnh sau bảo trì đã không còn bị rò rỉ nước nữa.	positive
+Dịch vụ nhanh chóng và không làm gián đoạn công việc của tôi.	positive
+Tôi rất hài lòng với dịch vụ bảo trì, máy lạnh hoạt động rất tốt.	positive
+Nhân viên rất nhiệt tình và chu đáo, tôi rất hài lòng.	positive
+Máy lạnh của tôi giờ hoạt động rất mượt mà sau khi bảo trì.	positive
+Dịch vụ bảo trì rất chất lượng, tôi sẽ tiếp tục sử dụng.	positive
+Nhân viên rất tận tâm và làm việc rất nhanh gọn.	positive
+Máy lạnh của tôi giờ đã không còn bị đọng nước sau khi bảo trì.	positive
+Tôi cảm thấy rất hài lòng với dịch vụ của công ty.	positive
+Nhân viên làm việc rất kỹ lưỡng và chu đáo.	positive
+Máy lạnh nhà tôi giờ đã không còn kêu to như trước.	positive
+Tôi rất hài lòng với dịch vụ bảo trì của công ty, rất đáng giá tiền.	positive
+Nhân viên kỹ thuật rất giỏi và hiểu biết về máy lạnh.	positive
+Sau khi bảo trì, máy lạnh nhà tôi làm mát nhanh hơn rất nhiều.	positive
+Tôi rất ấn tượng với thái độ làm việc của nhân viên.	positive
+Dịch vụ bảo trì rất nhanh chóng và chuyên nghiệp.	positive
+Máy lạnh của tôi giờ hoạt động rất ổn định sau khi bảo trì.	positive
+Nhân viên rất thân thiện và làm việc rất nhanh.	positive
+Máy lạnh nhà tôi giờ đã không còn tiếng ồn khó chịu nữa.	positive
+Dịch vụ bảo trì rất tốt, máy lạnh của tôi giờ làm mát đều hơn.	positive
+Tôi rất hài lòng với chất lượng dịch vụ của công ty.	positive
+Nhân viên làm việc rất chuyên nghiệp và hiệu quả.	positive
+Máy lạnh sau bảo trì đã không còn bị rò rỉ nước nữa.	positive
+Dịch vụ nhanh chóng và không làm gián đoạn công việc của tôi.	positive
+Tôi rất hài lòng với dịch vụ bảo trì, máy lạnh hoạt động rất tốt.	positive
+Nhân viên rất nhiệt tình và chu đáo, tôi rất hài lòng.	positive
+Máy lạnh của tôi giờ hoạt động rất mượt mà sau khi bảo trì.	positive
+Dịch vụ bảo trì rất chất lượng, tôi sẽ tiếp tục sử dụng.	positive
+Nhân viên rất tận tâm và làm việc rất nhanh gọn.	positive
+Máy lạnh của tôi giờ đã không còn bị đọng nước sau khi bảo trì.	positive
+Công ty bảo trì rất chuyên nghiệp, tôi hoàn toàn yên tâm.	positive
+Kỹ thuật viên có tay nghề cao, sửa chữa rất chuẩn xác.	positive
+Dịch vụ tuyệt vời, giá cả phải chăng, rất đáng đồng tiền.	positive
+Nhân viên tư vấn rất tận tình về cách sử dụng máy lạnh.	positive
+Sau bảo trì, hóa đơn tiền điện giảm đáng kể.	positive
+Rất hài lòng với dịch vụ, sẽ giới thiệu cho người thân.	positive
+Máy lạnh hoạt động êm hơn hẳn sau khi được bảo dưỡng.	positive
+Thợ kỹ thuật giải thích rất rõ về tình trạng máy.	positive
+Dịch vụ chăm sóc khách hàng rất chu đáo, tận tâm.	positive
+Công ty có đội ngũ kỹ thuật viên giỏi và nhiệt tình.	positive
+Máy lạnh được vệ sinh rất sạch sẽ và kỹ lưỡng.	positive
+Thái độ phục vụ chuyên nghiệp, làm việc rất có trách nhiệm.	positive
+Dịch vụ bảo trì định kỳ giúp máy hoạt động ổn định.	positive
+Nhân viên rất tỉ mỉ trong công việc sửa chữa.	positive
+Chế độ bảo hành sau sửa chữa rất tốt.	positive
+Đội ngũ kỹ thuật làm việc nhanh và chính xác.	positive
+Máy lạnh được kiểm tra toàn diện và kỹ càng.	positive
+Giá cả hợp lý, chất lượng dịch vụ xuất sắc.	positive
+Nhân viên rất chuyên nghiệp trong cách ứng xử.	positive
+Công ty có dịch vụ cứu hộ máy lạnh 24/7 rất tốt.	positive
+Kỹ thuật viên có kinh nghiệm xử lý mọi sự cố.	positive
+Dịch vụ đúng hẹn, không làm mất thời gian chờ đợi.	positive
+Máy lạnh được bảo dưỡng rất kỹ lưỡng và chuyên nghiệp.	positive
+Thợ sửa chữa rất tận tâm với công việc.	positive
+Chất lượng phụ tùng thay thế rất tốt.	positive
+Công ty có quy trình làm việc chuyên nghiệp.	positive
+Nhân viên hướng dẫn cách bảo quản máy rất chi tiết.	positive
+Dịch vụ sau bán hàng rất tốt, luôn hỗ trợ kịp thời.	positive
+Máy lạnh được vệ sinh sạch sẽ cả bên trong lẫn bên ngoài.	positive
+Kỹ thuật viên có chuyên môn cao trong nghề.	positive
+Thời gian phản hồi và xử lý sự cố rất nhanh.	positive
+Công ty có đầy đủ trang thiết bị chuyên dụng.	positive
+Nhân viên rất cẩn thận trong việc tháo lắp máy.	positive
+Dịch vụ bảo hành chu đáo và lâu dài.	positive
+Máy lạnh hoạt động bền bỉ hơn sau bảo trì.	positive
+Thợ kỹ thuật rất am hiểu về các dòng máy lạnh.	positive
+Công ty có chế độ chăm sóc khách hàng rất tốt.	positive
+Nhân viên làm việc có phương pháp và quy củ.	positive
+Dịch vụ đáp ứng đầy đủ yêu cầu của khách hàng.	positive
+Máy lạnh được kiểm tra áp suất gas rất chuẩn.	positive
+Kỹ thuật viên có tay nghề cao trong sửa board.	positive
+Thái độ phục vụ rất chuyên nghiệp và thân thiện.	positive
+Công ty có chính sách bảo hành rõ ràng.	positive
+Nhân viên hỗ trợ khách hàng rất nhiệt tình.	positive
+Dịch vụ bảo trì giúp tiết kiệm điện năng.	positive
+Máy lạnh được vệ sinh dàn nóng rất kỹ.	positive
+Thợ sửa có kinh nghiệm xử lý mọi tình huống.	positive
+Công ty có đội ngũ tư vấn viên chuyên nghiệp.	positive
+Nhân viên rất tỉ mỉ trong công việc.	positive
+Dịch vụ sửa chữa nhanh chóng và hiệu quả.	positive
+Máy lạnh được kiểm tra rò rỉ gas kỹ lưỡng.	positive
+Kỹ thuật viên có chứng chỉ hành nghề chuyên môn.	positive
+Thái độ phục vụ khách hàng rất tốt.	positive
+Công ty có website hỗ trợ đặt lịch tiện lợi.	positive
+Nhân viên rất chuyên nghiệp trong giao tiếp.	positive
+Dịch vụ bảo trì giúp máy hoạt động ổn định.	positive
+Máy lạnh được vệ sinh dàn lạnh rất sạch.	positive
+Thợ kỹ thuật có kinh nghiệm thay thế linh kiện.	positive
+Công ty có hotline hỗ trợ 24/7 rất tốt.	positive
+Nhân viên rất nhiệt tình giải đáp thắc mắc.	positive
+Dịch vụ sửa chữa đảm bảo chất lượng.	positive
+Máy lạnh được kiểm tra điện áp chuẩn xác.	positive
+Kỹ thuật viên có khả năng xử lý sự cố tốt.	positive
+Thái độ làm việc rất chuyên nghiệp.	positive
+Công ty có đội ngũ nhân viên giàu kinh nghiệm.	positive
+Nhân viên rất thạo việc và nhanh nhẹn.	positive
+Dịch vụ bảo trì giúp máy bền hơn.	positive
+Máy lạnh được vệ sinh lưới lọc rất kỹ.	positive
+Thợ sửa có kinh nghiệm nạp gas chuẩn.	positive
+Công ty có chính sách đổi trả rõ ràng.	positive
+Nhân viên rất am hiểu về máy lạnh.	positive
+Dịch vụ sửa chữa bảo đảm uy tín.	positive
+Máy lạnh được kiểm tra cảm biến chính xác.	positive
+Kỹ thuật viên có tay nghề sửa board giỏi.	positive
+Thái độ phục vụ rất chuyên nghiệp.	positive
+Công ty có đội ngũ kỹ sư giám sát giỏi.	positive
+Nhân viên rất tận tụy với công việc.	positive
+Dịch vụ bảo trì giúp máy tiết kiệm điện.	positive
+Máy lạnh được vệ sinh quạt rất kỹ.	positive
+Thợ kỹ thuật có kinh nghiệm thay block.	positive
+Công ty có chính sách giá cả rõ ràng.	positive
+Nhân viên rất thân thiện với khách hàng.	positive
+Dịch vụ sửa chữa đảm bảo chất lượng cao.	positive
+Máy lạnh được kiểm tra mạch điện chuẩn.	positive
+Kỹ thuật viên có khả năng sửa IC giỏi.	positive
+Thái độ làm việc rất chuyên cần.	positive
+Công ty có đội ngũ thợ lành nghề.	positive
+Nhân viên rất hiểu biết về kỹ thuật.	positive
+Dịch vụ bảo trì giúp máy êm hơn.	positive
+Máy lạnh được vệ sinh dàn tản nhiệt kỹ.	positive
+Thợ sửa có kinh nghiệm thay tụ điện.	positive
+Công ty có chế độ bảo hành tốt.	positive
+Nhân viên rất tỉ mỉ trong công việc.	positive
+Dịch vụ sửa chữa rất đáng tin cậy.	positive
+Máy lạnh được kiểm tra relay chuẩn.	positive
+Kỹ thuật viên có tay nghề cao.	positive
+Thái độ phục vụ rất nhiệt tình.	positive
+Công ty có đội ngũ nhân viên giỏi.	positive
+Nhân viên rất chăm chỉ làm việc.	positive
+Dịch vụ bảo trì rất chuyên nghiệp.	positive
+Máy lạnh được vệ sinh kỹ lưỡng.	positive
+Thợ kỹ thuật rất giỏi nghề.	positive
+Công ty có uy tín lâu năm.	positive
+Nhân viên rất tận tâm phục vụ.	positive
+Dịch vụ sửa chữa rất tốt.	positive
+Máy lạnh được bảo dưỡng kỹ.	positive
+Kỹ thuật viên làm việc giỏi.	positive
+Thái độ phục vụ chu đáo.	positive
+Công ty có dịch vụ tốt.	positive
+Nhân viên rất chuyên nghiệp.	positive
+Dịch vụ bảo trì hiệu quả.	positive
+Máy lạnh hoạt động tốt.	positive
+Thợ sửa làm việc giỏi.	positive
+Công ty rất uy tín.	positive
+Nhân viên nhiệt tình.	positive
+Dịch vụ chất lượng.	positive
+Máy lạnh êm ái.	positive
+Kỹ thuật viên giỏi.	positive
+Thái độ tốt.	positive
+Công ty chuyên nghiệp.	positive
+Nhân viên tận tâm.	positive
+Dịch vụ hay.	positive
+Máy lạnh mát.	positive
+Thợ sửa khéo.	positive
+Công ty đáng tin.	positive
+Nhân viên giỏi.	positive
+Dịch vụ tốt.	positive
+Máy lạnh bền.	positive
+Kỹ thuật cao.	positive
+Thái độ chuẩn.	positive
+Công ty tốt.	positive
+Nhân viên khéo.	positive
+Dịch vụ chuẩn.	positive
+Máy lạnh êm.	positive
+Thợ sửa tốt.	positive
+Công ty hay.	positive
+Nhân viên chu đáo.	positive
+Dịch vụ đẹp.	positive
+Máy lạnh tuyệt.	positive
+Kỹ thuật chuẩn.	positive
+Thái độ hay.	positive
+Công ty chuẩn.	positive
+Nhân viên tốt.	positive
+Dịch vụ bền.	positive
+Máy lạnh khỏe.	positive
+Thợ sửa chuẩn.	positive
+Công ty giỏi.	positive
+Nhân viên đẹp.	positive
+Dịch vụ ngon.	positive
+Máy lạnh hay.	positive
+Kỹ thuật tốt.	positive
+Thái độ ngon.	positive
+Công ty ngon.	positive
+Nhân viên chuẩn.	positive
+Dịch vụ khỏe.	positive
+Máy lạnh ngon.	positive
+Thợ sửa hay.	positive
+Công ty khéo.	positive
+Nhân viên hay.	positive
+Dịch vụ êm.	positive
+Máy lạnh chuẩn.	positive
+Kỹ thuật hay.	positive
+Thái độ khéo.	positive
+Công ty êm.	positive
+Nhân viên ngon.	positive
+Dịch vụ đỉnh.	positive
+Máy lạnh tốt.	positive
+Thợ sửa ngon.	positive
+Công ty đỉnh.	positive
+Nhân viên êm.	positive
+Dịch vụ cao.	positive
+Máy lạnh đỉnh.	positive
+Kỹ thuật ngon.	positive
+Thái độ đỉnh.	positive
+Công ty cao.	positive
+Nhân viên đỉnh.	positive
+Dịch vụ giỏi.	positive
+Máy lạnh cao.	positive
+Thợ sửa đỉnh.	positive
+Công ty pro.	positive
+Nhân viên cao.	positive
+Dịch vụ pro.	positive
+Máy lạnh pro.	positive
+Kỹ thuật đỉnh.	positive
+Thái độ cao.	positive
+Công ty good.	positive
+Nhân viên pro.	positive
+Dịch vụ good.	positive
+Máy lạnh good.	positive
+Thợ sửa pro.	positive
+Công ty nice.	positive
+Nhân viên good.	positive
+Dịch vụ nice.	positive
+Máy lạnh nice.	positive
+Kỹ thuật pro.	positive
+Thái độ pro.	positive
+Công ty best.	positive
+Nhân viên nice.	positive
+Dịch vụ best.	positive
+Máy lạnh best.	positive
+Thợ sửa nice.	positive
+Công ty cool.	positive
+Nhân viên best.	positive
+Máy lạnh vẫn bị rò rỉ nước sau khi bảo trì.	negative
+Dịch vụ không đáp ứng được yêu cầu của tôi.	negative
+Nhân viên không nhiệt tình và thiếu chuyên nghiệp.	negative
+Sau bảo trì, máy lạnh vẫn hoạt động kém.	negative
+Giá cả không hợp lý so với chất lượng dịch vụ.	negative
+Máy lạnh nhà tôi vẫn không làm mát như mong đợi sau khi bảo trì.	negative
+Dịch vụ quá chậm, làm mất nhiều thời gian của tôi.	negative
+Nhân viên thiếu trách nhiệm và không chu đáo.	negative
+Sau bảo trì, máy lạnh vẫn kêu to và gây khó chịu.	negative
+Máy lạnh không hoạt động đúng cách sau khi bảo trì.	negative
+Nhân viên thiếu kỹ năng và làm việc không hiệu quả.	negative
+Dịch vụ không đáp ứng được mong đợi của tôi.	negative
+Máy lạnh vẫn bị trục trặc sau khi bảo trì.	negative
+Giá cả quá cao so với chất lượng nhận được.	negative
+Nhân viên không thân thiện và thiếu chuyên nghiệp.	negative
+Máy lạnh nhà tôi vẫn không hoạt động tốt sau khi bảo trì.	negative
+Dịch vụ quá chậm, làm mất nhiều thời gian của tôi.	negative
+Nhân viên thiếu trách nhiệm và không chu đáo.	negative
+Sau bảo trì, máy lạnh vẫn kêu to và gây khó chịu.	negative
+Máy lạnh không hoạt động đúng cách sau khi bảo trì.	negative
+Nhân viên thiếu kỹ năng và làm việc không hiệu quả.	negative
+Dịch vụ không đáp ứng được mong đợi của tôi.	negative
+Máy lạnh vẫn bị trục trặc sau khi bảo trì.	negative
+Giá cả quá cao so với chất lượng nhận được.	negative
+Nhân viên không thân thiện và thiếu chuyên nghiệp.	negative
+Máy lạnh nhà tôi vẫn không hoạt động tốt sau khi bảo trì.	negative
+Dịch vụ không đáp ứng đúng yêu cầu của tôi.	negative
+Nhân viên không nhiệt tình và thiếu chuyên nghiệp.	negative
+Sau bảo trì, máy lạnh vẫn hoạt động kém.	negative
+Giá cả không hợp lý so với chất lượng dịch vụ.	negative
+Máy lạnh nhà tôi vẫn không làm mát như mong đợi sau khi bảo trì.	negative
+Dịch vụ quá chậm, làm mất nhiều thời gian của tôi.	negative
+Nhân viên thiếu trách nhiệm và không chu đáo.	negative
+Sau bảo trì, máy lạnh vẫn kêu to và gây khó chịu.	negative
+Máy lạnh không hoạt động đúng cách sau khi bảo trì.	negative
+Nhân viên thiếu kỹ năng và làm việc không hiệu quả.	negative
+Dịch vụ không đáp ứng được mong đợi của tôi.	negative
+Máy lạnh vẫn bị trục trặc sau khi bảo trì.	negative
+Giá cả quá cao so với chất lượng nhận được.	negative
+Nhân viên không thân thiện và thiếu chuyên nghiệp.	negative
+Máy lạnh nhà tôi vẫn không hoạt động tốt sau khi bảo trì.	negative
+Dịch vụ không đáp ứng đúng yêu cầu của tôi.	negative
+Nhân viên không nhiệt tình và thiếu chuyên nghiệp.	negative
+Sau bảo trì, máy lạnh vẫn hoạt động kém.	negative
+Giá cả không hợp lý so với chất lượng dịch vụ.	negative
+Máy lạnh nhà tôi vẫn không làm mát như mong đợi sau khi bảo trì.	negative
+Dịch vụ quá chậm, làm mất nhiều thời gian của tôi.	negative
+Nhân viên thiếu trách nhiệm và không chu đáo.	negative
+Sau bảo trì, máy lạnh vẫn kêu to và gây khó chịu.	negative
+Máy lạnh không hoạt động đúng cách sau khi bảo trì.	negative
+Máy lạnh sau bảo trì vẫn không mát như mong đợi.	negative
+Nhân viên thiếu chuyên nghiệp và không chu đáo.	negative
+Giá cả dịch vụ quá cao so với chất lượng nhận được.	negative
+Bảo trì không kỹ lưỡng, máy vẫn bị rò rỉ nước.	negative
+Máy lạnh hoạt động kém hiệu quả sau khi bảo trì.	negative
+Dịch vụ không đáp ứng đúng yêu cầu của tôi.	negative
+Nhân viên đến muộn, không giữ đúng lời hẹn.	negative
+Máy lạnh sau bảo trì vẫn phát ra tiếng ồn lớn.	negative
+Dịch vụ quá chậm, làm mất nhiều thời gian của tôi.	negative
+Sau bảo trì, máy lạnh nhà tôi vẫn không hoạt động ổn định.	negative
+Nhân viên thiếu trách nhiệm và không chuyên nghiệp.	negative
+Máy lạnh của tôi bị hư hỏng thêm sau khi bảo trì.	negative
+Máy lạnh sau bảo trì vẫn không mát, rất thất vọng.	negative
+Nhân viên thiếu chuyên nghiệp, không đúng giờ.	negative
+Giá dịch vụ quá cao so với chất lượng.	negative
+Thời gian làm việc kéo dài, không như cam kết.	negative
+Bảo trì xong máy vẫn kêu to, không khác gì trước.	negative
+Máy lạnh sau bảo trì vẫn có mùi khó chịu.	negative
+Nhân viên không giải thích kỹ về tình trạng máy.	negative
+Dịch vụ không đáng giá tiền, rất tệ.	negative
+Sau khi bảo trì, máy lạnh lại bị rò rỉ nước.	negative
+Thái độ nhân viên không thân thiện.	negative
+Máy lạnh sau bảo trì vẫn chạy không ổn định.	negative
+Dịch vụ chậm trễ, gây nhiều phiền toái.	negative
+Giá cả quá đắt so với chất lượng dịch vụ.	negative
+Máy lạnh sau bảo trì vẫn bị đọng nước.	negative
+Nhân viên làm việc cẩu thả, không kiểm tra kỹ lưỡng.	negative
+Máy lạnh vẫn phát ra tiếng ồn khó chịu.	negative
+Không có sự cải thiện nào sau khi bảo trì.	negative
+Dịch vụ quá chậm, mất nhiều thời gian chờ đợi.	negative
+Nhân viên không thông báo trước khi đến.	negative
+Sau khi bảo trì, máy lạnh lại gặp thêm vấn đề mới.	negative
+Chất lượng dịch vụ bảo trì quá kém, không đáng tin cậy.	negative
+Sau khi sửa xong, máy lạnh lại càng hoạt động tệ hơn.	negative
+Nhân viên kỹ thuật thiếu kiến thức chuyên môn cơ bản.	negative
+Thời gian chờ đợi quá lâu, làm việc không có kế hoạch.	negative
+Máy lạnh vẫn không mát sau nhiều lần bảo trì.	negative
+Dịch vụ không đáng với số tiền đã bỏ ra.	negative
+Nhân viên làm việc qua loa, thiếu trách nhiệm.	negative
+Chi phí phát sinh thêm không được thông báo trước.	negative
+Máy lạnh vẫn bị chảy nước sau khi sửa chữa.	negative
+Thái độ phục vụ của nhân viên rất tệ.	negative
+Không giải quyết triệt để vấn đề của máy lạnh.	negative
+Nhân viên đến muộn 2 tiếng so với lịch hẹn.	negative
+Sau bảo trì, máy lạnh tiêu thụ điện nhiều hơn.	negative
+Chất lượng phụ tùng thay thế rất kém.	negative
+Nhân viên không mang đủ dụng cụ sửa chữa.	negative
+Máy lạnh bị hư nặng hơn sau khi được sửa.	negative
+Dịch vụ không có bảo hành sau sửa chữa.	negative
+Nhân viên không vệ sinh sạch sẽ sau khi làm xong.	negative
+Không có hóa đơn chứng từ rõ ràng.	negative
+Máy lạnh phát ra tiếng ồn lớn sau khi sửa.	negative
+Nhân viên không giải thích rõ nguyên nhân hư hỏng.	negative
+Chi phí sửa chữa cao hơn nhiều so với báo giá.	negative
+Máy lạnh không ổn định sau khi bảo trì.	negative
+Thợ sửa không có kinh nghiệm xử lý sự cố.	negative
+Dịch vụ không có hotline hỗ trợ sau bán hàng.	negative
+Nhân viên từ chối sửa chữa những lỗi phức tạp.	negative
+Máy lạnh bị rỉ sét sau khi được vệ sinh.	negative
+Không có phiếu bảo hành sau sửa chữa.	negative
+Thái độ nhân viên thiếu tôn trọng khách hàng.	negative
+Máy lạnh vẫn có mùi hôi sau khi vệ sinh.	negative
+Nhân viên không mang đồ bảo hộ khi làm việc.	negative
+Dịch vụ không có chính sách đền bù thiệt hại.	negative
+Máy lạnh bị trầy xước sau khi bảo trì.	negative
+Thời gian sửa chữa kéo dài không cần thiết.	negative
+Nhân viên không thông báo khi hủy lịch hẹn.	negative
+Chất lượng dịch vụ không đồng đều giữa các lần.	negative
+Máy lạnh bị rò gas sau khi được nạp gas.	negative
+Nhân viên không có đồng phục công ty.	negative
+Dịch vụ không có cam kết chất lượng rõ ràng.	negative
+Máy lạnh vẫn bị đóng tuyết sau khi sửa.	negative
+Thợ sửa không biết cách xử lý lỗi cơ bản.	negative
+Chi phí phát sinh không được giải thích rõ.	negative
+Máy lạnh hoạt động yếu hơn sau khi bảo trì.	negative
+Nhân viên không có thẻ nhân viên chính thức.	negative
+Dịch vụ không có website chính thống.	negative
+Máy lạnh bị rung lắc mạnh sau khi lắp lại.	negative
+Thợ sửa làm việc thiếu an toàn.	negative
+Không có biên bản nghiệm thu sau sửa chữa.	negative
+Máy lạnh bị hỏng remote sau khi sửa.	negative
+Nhân viên không biết sử dụng thiết bị đo.	negative
+Dịch vụ không có phương án dự phòng.	negative
+Máy lạnh bị nước nhỏ giọt liên tục.	negative
+Thợ sửa không mang theo phụ tùng thay thế.	negative
+Chất lượng công việc không đảm bảo.	negative
+Máy lạnh bị nhiễu điện sau khi sửa.	negative
+Nhân viên không ghi chép số liệu kiểm tra.	negative
+Dịch vụ không có quy trình rõ ràng.	negative
+Máy lạnh bị hư cảm biến nhiệt độ.	negative
+Thợ sửa không biết đọc sơ đồ mạch điện.	negative
+Chi phí cao hơn thị trường rất nhiều.	negative
+Máy lạnh bị mất chức năng hẹn giờ.	negative
+Nhân viên không biết cách tháo lắp đúng.	negative
+Dịch vụ không có bảo hiểm trách nhiệm.	negative
+Máy lạnh bị mất chức năng swing.	negative
+Thợ sửa làm vỡ vỏ nhựa máy lạnh.	negative
+Không có phiếu kiểm tra chất lượng.	negative
+Máy lạnh bị rò điện sau khi sửa.	negative
+Nhân viên không biết cách vệ sinh đúng.	negative
+Dịch vụ không có xe cứu hộ khẩn cấp.	negative
+Máy lạnh bị hỏng board mạch chính.	negative
+Thợ sửa không có công cụ chuyên dụng.	negative
+Chất lượng spare part không đảm bảo.	negative
+Máy lạnh bị chập điện sau khi sửa.	negative
+Nhân viên không biết cách test máy.	negative
+Dịch vụ không có chứng chỉ hành nghề.	negative
+Máy lạnh bị hỏng quạt dàn nóng.	negative
+Thợ sửa không biết cách nạp gas.	negative
+Chi phí vật tư cao hơn thị trường.	negative
+Máy lạnh bị hỏng cảm biến áp suất.	negative
+Nhân viên không biết cách xử lý rò rỉ.	negative
+Dịch vụ không có máy hút chân không.	negative
+Máy lạnh bị hỏng van điện từ.	negative
+Thợ sửa làm hỏng ống đồng.	negative
+Không có bảng báo giá chi tiết.	negative
+Máy lạnh bị hỏng quạt dàn lạnh.	negative
+Nhân viên không biết cách hàn ống.	negative
+Dịch vụ không có thiết bị đo chuyên dụng.	negative
+Máy lạnh bị hỏng tụ điện.	negative
+Thợ sửa không biết cách đi ống đồng.	negative
+Chất lượng khớp nối không đảm bảo.	negative
+Máy lạnh bị hỏng relay.	negative
+Nhân viên không biết cách đọc đồng hồ đo.	negative
+Dịch vụ không có phụ tùng chính hãng.	negative
+Máy lạnh bị hỏng cầu chì.	negative
+Thợ sửa làm hỏng dàn tản nhiệt.	negative
+Chi phí nhân công quá cao.	negative
+Máy lạnh bị hỏng thermostat.	negative
+Nhân viên không biết cách uốn ống.	negative
+Dịch vụ không có bảo hành lâu dài.	negative
+Máy lạnh bị hỏng van tiết lưu.	negative
+Thợ sửa làm hỏng cánh quạt.	negative
+Không có biên bản bàn giao.	negative
+Máy lạnh bị hỏng timer.	negative
+Nhân viên không biết cách lắp đặt.	negative
+Dịch vụ không có kỹ sư giám sát.	negative
+Máy lạnh bị hỏng màn hình.	negative
+Thợ sửa làm rách ống cách nhiệt.	negative
+Chất lượng thiết bị đo không đạt chuẩn.	negative
+Máy lạnh bị hỏng biến tần.	negative
+Nhân viên không biết cách thay gas.	negative
+Dịch vụ không có phòng cách âm test máy.	negative
+Máy lạnh bị hỏng sensor.	negative
+Thợ sửa làm hỏng khớp nối.	negative
+Chi phí di chuyển quá cao.	negative
+Máy lạnh bị hỏng mạch điều khiển.	negative
+Nhân viên không biết cách vệ sinh dàn lạnh.	negative
+Dịch vụ không có đội ngũ kỹ thuật chuyên sâu.	negative
+Máy lạnh bị hỏng động cơ quạt.	negative
+Thợ sửa làm hỏng ống nước.	negative
+Không có phiếu bảo trì định kỳ.	negative
+Máy lạnh bị hỏng dàn nóng.	negative
+Nhân viên không biết cách xử lý tiếng ồn.	negative
+Dịch vụ không có máy bơm chân không.	negative
+Máy lạnh bị hỏng dàn lạnh.	negative
+Thợ sửa làm hỏng vỏ máy.	negative
+Chất lượng gas không đảm bảo.	negative
+Máy lạnh bị hỏng block.	negative
+Nhân viên không biết cách kiểm tra rò rỉ.	negative
+Dịch vụ không có thiết bị dò gas.	negative
+Máy lạnh bị hỏng máy nén.	negative
+Thợ sửa làm hỏng ống thoát nước.	negative
+Chi phí vận chuyển quá cao.	negative
+Máy lạnh bị hỏng mạch nguồn.	negative
+Nhân viên không biết cách sửa board.	negative
+Dịch vụ không có phòng thực hành.	negative
+Máy lạnh bị hỏng IC.	negative
+Thợ sửa làm hỏng dàn tản nhiệt.	negative
+Không có bảo hành linh kiện.	negative
+Máy lạnh bị hỏng mosfet.	negative
+Nhân viên không biết cách thay block.	negative
+Dịch vụ không có thiết bị chống nhiễu.	negative
+Máy lạnh bị hỏng tụ nguồn.	negative
+Thợ sửa làm hỏng van ga.	negative
+Chất lượng điện trở không đảm bảo.	negative
+Máy lạnh bị hỏng tụ run.	negative
+Nhân viên không biết cách thay quạt.	negative
+Dịch vụ không có thiết bị đo áp suất.	negative
+Máy lạnh bị hỏng cảm biến dòng.	negative
+Thợ sửa làm hỏng ống gas.	negative
+Chi phí kiểm tra quá cao.	negative
+Máy lạnh bị hỏng mạch điều khiển từ xa.	negative
+Nhân viên không biết cách thay sensor.	negative
+Dịch vụ không có phòng bảo hành.	negative
+Máy lạnh bị hỏng relay khởi động.	negative
+Thợ sửa làm hỏng van một chiều.	negative
+Không có chế độ bảo trì định kỳ.	negative
+Máy lạnh bị hỏng mạch cảm biến.	negative
+Nhân viên không biết cách thay tụ.	negative
+Dịch vụ không có kho phụ tùng.	negative
+Máy lạnh bị hỏng cầu chì nguồn.	negative
+Thợ sửa làm hỏng ống dẫn.	negative
+Chất lượng dây điện không đảm bảo.	negative
+Máy lạnh bị hỏng mạch bảo vệ.	negative
+Nhân viên không biết cách thay IC.	negative
+Dịch vụ không có phòng lắp ráp.	negative
+Máy lạnh bị hỏng mạch khởi động.	negative
+Thợ sửa làm hỏng dây nguồn.	negative
+Chi phí thay thế quá cao.	negative
+Máy lạnh bị hỏng mạch điều khiển quạt.	negative
+Nhân viên không biết cách thay mosfet.	negative
+Dịch vụ không có phòng test máy.	negative
+Máy lạnh bị hỏng mạch điều khiển nhiệt độ.	negative
+Thợ sửa làm hỏng cảm biến nhiệt.	negative
+Không có chính sách đổi trả.	negative
+Máy lạnh bị hỏng mạch điều khiển áp suất.	negative
+Nhân viên không biết cách thay board.	negative
+Dịch vụ không có thiết bị kiểm tra.	negative
+Máy lạnh bị hỏng mạch điều khiển dòng điện.	negative
+Thợ sửa làm hỏng cảm biến áp.	negative
+Dịch vụ ổn, không có gì đặc biệt.	neutral
+Chất lượng bảo trì đúng như mong đợi.	neutral
+Nhân viên làm việc đúng quy trình nhưng không quá xuất sắc.	neutral
+Máy lạnh sau bảo trì hoạt động bình thường, không có gì nổi bật.	neutral
+Không có vấn đề gì xảy ra, dịch vụ hoàn thành đúng như cam kết.	neutral
+Dịch vụ tương đối, không có điều gì nổi bật.	neutral
+Giá cả phù hợp với chất lượng dịch vụ.	neutral
+Máy lạnh sau bảo trì hoạt động đúng như ban đầu.	neutral
+Nhân viên làm việc đúng giờ, không có điều gì đáng phàn nàn.	neutral
+Dịch vụ bảo trì đúng tiến độ, không có sự chậm trễ.	neutral
+Không có gì đáng chú ý, dịch vụ thực hiện đúng như yêu cầu.	neutral
+Chất lượng ổn định, không có điều gì phàn nàn.	neutral
+Dịch vụ được thực hiện đúng như đã thỏa thuận.	neutral
+Máy lạnh sau bảo trì không có sự thay đổi đáng kể.	neutral
+Nhân viên thực hiện công việc một cách chính xác.	neutral
+Dịch vụ bảo trì hoàn thành đúng thời gian dự kiến.	neutral
+Không có gì đặc biệt, mọi thứ đều ổn.	neutral
+Máy lạnh hoạt động bình thường sau khi bảo trì.	neutral
+Dịch vụ được thực hiện một cách trung bình, không có gì nổi bật.	neutral
+Không có vấn đề gì sau khi bảo trì, máy lạnh hoạt động ổn định.	neutral
+Dịch vụ đáp ứng đúng nhu cầu cơ bản.	neutral
+Thợ làm việc theo đúng quy trình tiêu chuẩn.	neutral
+Chất lượng phục vụ ở mức trung bình.	neutral
+Thái độ nhân viên bình thường, không quá nhiệt tình.	neutral
+Giá cả phù hợp với thị trường chung.	neutral
+Thời gian hoàn thành công việc đúng như dự kiến.	neutral
+Máy lạnh vận hành ổn sau khi được bảo dưỡng.	neutral
+Dịch vụ không có gì đặc sắc nhưng đạt yêu cầu.	neutral
+Nhân viên làm việc đúng giờ và đúng quy trình.	neutral
+Chất lượng bảo trì đạt mức cơ bản.	neutral
+Không có điểm nổi bật trong cách phục vụ.	neutral
+Dịch vụ được thực hiện một cách bình thường.	neutral
+Kỹ thuật viên làm việc theo đúng tiêu chuẩn.	neutral
+Máy lạnh hoạt động bình thường sau sửa chữa.	neutral
+Thời gian chờ đợi ở mức chấp nhận được.	neutral
+Quy trình làm việc không có gì đặc biệt.	neutral
+Chất lượng dịch vụ nằm trong giới hạn mong đợi.	neutral
+Nhân viên thực hiện đúng những gì đã cam kết.	neutral
+Công việc được hoàn thành ở mức tạm được.	neutral
+Dịch vụ không có điểm gì để phàn nàn.	neutral
+Máy lạnh vận hành bình thường sau bảo trì.	neutral
+Thái độ phục vụ ở mức trung bình.	neutral
+Không có gì để khen ngợi hay phàn nàn.	neutral
+Chi phí dịch vụ nằm trong mức chấp nhận được.	neutral
+Chất lượng công việc đạt yêu cầu cơ bản.	neutral
+Thời gian thực hiện không quá nhanh cũng không quá chậm.	neutral
+Nhân viên làm việc đúng theo quy trình standard.	neutral
+Dịch vụ được thực hiện một cách bình thường.	neutral
+Máy lạnh hoạt động ổn định sau khi sửa.	neutral
+Không có điểm gì đáng chú ý trong dịch vụ.	neutral
+Chất lượng phục vụ nằm trong kỳ vọng.	neutral
+Thợ làm việc đúng như những gì đã thống nhất.	neutral
+Dịch vụ không có gì để khen hay chê.	neutral
+Công việc được hoàn thành đúng tiêu chuẩn.	neutral
+Thái độ nhân viên bình thường, không quá nổi bật.	neutral
+Máy lạnh chạy ổn định sau khi bảo dưỡng.	neutral
+Chi phí dịch vụ nằm trong mức trung bình.	neutral
+Không có vấn đề gì đáng quan ngại.	neutral
+Chất lượng dịch vụ ở mức tạm chấp nhận.	neutral
+Nhân viên làm việc đúng quy trình cơ bản.	neutral
+Thời gian hoàn thành công việc như dự kiến.	neutral
+Dịch vụ được thực hiện một cách bình thường.	neutral
+Máy lạnh vận hành bình thường sau sửa chữa.	neutral
+Không có điểm gì đặc biệt trong cách phục vụ.	neutral
+Chất lượng công việc đạt yêu cầu tối thiểu.	neutral
+Thợ làm việc theo đúng quy trình tiêu chuẩn.	neutral
+Dịch vụ không có gì để phàn nàn.	neutral
+Công việc được hoàn thành đúng như cam kết.	neutral
+Thái độ phục vụ ở mức bình thường.	neutral
+Máy lạnh hoạt động ổn sau khi được sửa.	neutral
+Chi phí nằm trong mức giá thị trường.	neutral
+Không có điểm gì nổi bật trong dịch vụ.	neutral
+Chất lượng phục vụ đạt mức trung bình.	neutral
+Nhân viên làm việc đúng quy trình chuẩn.	neutral
+Thời gian thực hiện không quá lâu.	neutral
+Dịch vụ được thực hiện một cách bình thường.	neutral
+Máy lạnh vận hành ổn định sau bảo trì.	neutral
+Không có vấn đề gì đáng lo ngại.	neutral
+Chất lượng công việc nằm trong kỳ vọng.	neutral
+Thợ làm việc theo đúng quy trình.	neutral
+Dịch vụ không có gì đặc biệt để nhắc đến.	neutral
+Công việc được hoàn thành đúng thời hạn.	neutral
+Thái độ nhân viên ở mức bình thường.	neutral
+Máy lạnh hoạt động bình thường sau sửa.	neutral
+Chi phí phù hợp với chất lượng dịch vụ.	neutral
+Không có điểm gì đáng chú ý.	neutral
+Chất lượng dịch vụ ở mức trung bình.	neutral
+Nhân viên làm việc đúng quy trình.	neutral
+Thời gian hoàn thành như thỏa thuận.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn sau khi sửa.	neutral
+Không có gì đặc biệt trong cách làm việc.	neutral
+Chất lượng công việc đạt yêu cầu.	neutral
+Thợ làm việc theo đúng quy trình.	neutral
+Dịch vụ không có điểm gì nổi bật.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ phục vụ bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí nằm trong mức chấp nhận.	neutral
+Không có vấn đề gì lớn.	neutral
+Chất lượng ở mức trung bình.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian thực hiện như dự kiến.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn sau sửa.	neutral
+Không có điểm gì đáng nhắc.	neutral
+Chất lượng công việc tạm được.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc sắc.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ nhân viên bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí hợp lý với dịch vụ.	neutral
+Không có gì đáng phàn nàn.	neutral
+Chất lượng đạt yêu cầu cơ bản.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian hoàn thành phù hợp.	neutral
+Dịch vụ thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn định.	neutral
+Không có điểm gì nổi bật.	neutral
+Chất lượng công việc tạm ổn.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc biệt.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ phục vụ bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí nằm trong mức chấp nhận.	neutral
+Không có vấn đề gì lớn.	neutral
+Chất lượng ở mức trung bình.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian thực hiện như dự kiến.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn sau sửa.	neutral
+Không có điểm gì đáng nhắc.	neutral
+Chất lượng công việc tạm được.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc sắc.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ nhân viên bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí hợp lý với dịch vụ.	neutral
+Không có gì đáng phàn nàn.	neutral
+Chất lượng đạt yêu cầu cơ bản.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian hoàn thành phù hợp.	neutral
+Dịch vụ thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn định.	neutral
+Không có điểm gì nổi bật.	neutral
+Chất lượng công việc tạm ổn.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc biệt.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ phục vụ bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí phù hợp với dịch vụ.	neutral
+Không có vấn đề gì lớn.	neutral
+Chất lượng ở mức trung bình.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian thực hiện như dự kiến.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn sau sửa.	neutral
+Không có điểm gì đáng nhắc.	neutral
+Chất lượng công việc tạm được.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc sắc.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ nhân viên bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí hợp lý với dịch vụ.	neutral
+Không có gì đáng phàn nàn.	neutral
+Chất lượng đạt yêu cầu cơ bản.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian hoàn thành phù hợp.	neutral
+Dịch vụ thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn định.	neutral
+Không có điểm gì nổi bật.	neutral
+Chất lượng công việc tạm ổn.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc biệt.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ phục vụ bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí nằm trong mức chấp nhận.	neutral
+Không có vấn đề gì lớn.	neutral
+Chất lượng ở mức trung bình.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian thực hiện như dự kiến.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn sau sửa.	neutral
+Không có điểm gì đáng nhắc.	neutral
+Chất lượng công việc tạm được.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc sắc.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ nhân viên bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí hợp lý với dịch vụ.	neutral
+Không có gì đáng phàn nàn.	neutral
+Chất lượng đạt yêu cầu cơ bản.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian hoàn thành phù hợp.	neutral
+Dịch vụ thực hiện bình thường.	neutral
+Máy lạnh vận hành ổn định.	neutral
+Không có điểm gì nổi bật.	neutral
+Chất lượng công việc tạm ổn.	neutral
+Thợ làm việc theo quy trình.	neutral
+Dịch vụ không có gì đặc biệt.	neutral
+Công việc hoàn thành đúng hẹn.	neutral
+Thái độ phục vụ bình thường.	neutral
+Máy lạnh hoạt động ổn định.	neutral
+Chi phí phù hợp với dịch vụ.	neutral
+Không có vấn đề gì lớn.	neutral
+Chất lượng ở mức trung bình.	neutral
+Nhân viên làm việc đúng giờ.	neutral
+Thời gian thực hiện như dự kiến.	neutral
+Dịch vụ được thực hiện bình thường.	neutral
